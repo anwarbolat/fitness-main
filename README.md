@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anwar Bolat</h1>
 <h3 align="center">This is a concept of a mobile fitness application</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Website:</h3>
 <p align="left">
+<a href="https://www.bolatov.com/" target="_blank">Bolatov.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
